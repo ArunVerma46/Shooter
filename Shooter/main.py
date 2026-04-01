@@ -13,7 +13,7 @@ SCREEN_HEIGHT = int(SCREEN_WIDTH * 0.5)
 
 # Create a display surface object of specific dimension
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption('PyShooter - SamirPaul1')
+pygame.display.set_caption('PyShooter - Arun Verma')
 
 # Creating a new clock object to track the amount of time
 clock = pygame.time.Clock()
